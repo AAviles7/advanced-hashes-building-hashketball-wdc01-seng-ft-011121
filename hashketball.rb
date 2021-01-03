@@ -9,7 +9,11 @@
 
 def game_hash
   
-  game = {}
+  game = {
+    :home => {  
+      
+    }
+  }
   
   return game
   
