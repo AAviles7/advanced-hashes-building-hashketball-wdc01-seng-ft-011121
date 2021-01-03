@@ -9,6 +9,8 @@
 
 def game_hash
   
+  game = {}
   
+  return game
   
 end
